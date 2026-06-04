@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 Recruitment Copilot
+# Recruitment Copilot
 
 ### AI-Assisted Recruitment Intelligence & Candidate Assessment
 
@@ -35,7 +35,7 @@ Designed as a transparent human-in-the-loop workflow rather than a black-box hir
 
 ---
 
-## 📸 Live Demonstration
+## Live Demonstration
 
 The screenshots below demonstrate the system analyzing a real-world AI & Data candidate profile and generating a structured recruiter briefing.
 
@@ -134,7 +134,7 @@ The generated report includes:
 
 ---
 
-## ✨ Why This Project?
+## Why This Project?
 
 Recruiters and hiring managers often review large numbers of applications under significant time pressure. Valuable information can be overlooked, while evaluation quality may vary between reviewers.
 
@@ -183,7 +183,7 @@ All outputs remain subject to human review.
 
 ---
 
-## 🧩 Features
+## Features
 
 ### Candidate Assessment
 
@@ -217,7 +217,7 @@ All outputs remain subject to human review.
 
 ---
 
-## 🖥️ Dashboard Components
+## Dashboard Components
 
 The application currently includes:
 
@@ -235,7 +235,7 @@ The application currently includes:
 
 ---
 
-## 📸 Example Output
+## Example Output
 
 The system generates:
 
@@ -296,7 +296,7 @@ recruitment-copilot/
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 Clone the repository:
 
@@ -343,7 +343,7 @@ python -m streamlit run app.py
 
 ---
 
-## 🧠 Current Scoring Logic
+## Current Scoring Logic
 
 The MVP uses deterministic matching and evidence-based scoring.
 
@@ -380,7 +380,7 @@ Recruitment decisions require human review, contextual understanding, fairness c
 
 ---
 
-## 🔮 Future Vision
+## Future Vision
 
 Recruitment Copilot is the first component of a broader exploration into AI-assisted operational systems.
 
@@ -388,7 +388,7 @@ Future versions will evolve from explainable screening toward recruiter workflow
 
 ---
 
-## 🌱 Roadmap
+## Roadmap
 
 ### Version 1.x — Explainable Screening
 
@@ -424,39 +424,6 @@ Future versions will evolve from explainable screening toward recruiter workflow
 * [ ] Hiring pipeline analytics
 * [ ] Recruiter copilot agent
 * [ ] Human-in-the-loop recruitment architecture
-
----
-
-## 🎯 Learning Objectives
-
-This project explores:
-
-* AI-assisted decision-support systems
-* Human-in-the-loop workflow design
-* Operational automation
-* Explainable scoring systems
-* Recruiter productivity tooling
-* Streamlit dashboard development
-
----
-
-## 🏷️ Suggested GitHub Topics
-
-```text
-ai
-recruitment
-hr-tech
-cv-analysis
-job-matching
-streamlit
-python
-automation
-candidate-screening
-decision-support
-human-in-the-loop
-workflow-automation
-recruiter-copilot
-```
 
 ---
 
