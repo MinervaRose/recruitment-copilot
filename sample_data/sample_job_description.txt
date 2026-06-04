@@ -1,0 +1,17 @@
+AI Data Analyst
+
+We are looking for a candidate able to support business teams with data analysis, reporting and AI-assisted workflows.
+
+Required skills:
+- Python
+- SQL
+- Power BI or Tableau
+- Machine Learning basics
+- Data visualization
+- Stakeholder communication
+
+Nice to have:
+- Generative AI
+- Cloud experience
+- dbt or Snowflake
+- Automation tools such as Make, Airtable or n8n

@@ -1,0 +1,16 @@
+Alex Martin
+Data Analyst & AI Automation Builder
+
+Experience
+- Built Python dashboards using Pandas, Plotly and Streamlit for operational reporting.
+- Created SQL queries to monitor sales performance and customer segmentation.
+- Developed a machine learning prototype for lead scoring.
+- Designed training materials and presented insights to non-technical stakeholders.
+- Used GitHub to document portfolio projects.
+
+Education
+MSc Artificial Intelligence
+Data Science Nanodegree certification
+
+Skills
+Python, SQL, Pandas, Machine Learning, Tableau, Power BI, GitHub, Streamlit, data visualization, stakeholder communication, training.
